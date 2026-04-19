@@ -1,6 +1,6 @@
 # Hi, I'm Caspar Niekus 👋
 
-I'm a curious and hands-on Embedded Computer Engineering student from the Netherlands, specializing in bridging the gap between hardware and software. I thrive on building tangible products from concept to reality.
+I'm a curious and hands-on Embedded Computer Engineering student from the Netherlands, specializing in bridging the gap between hardware and software. I like to build tangible products from concept to reality.
 
 ---
 
